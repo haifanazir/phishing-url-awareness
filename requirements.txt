@@ -1,0 +1,2 @@
+# Python Standard Library dependencies only (re, urllib.parse).
+# No external package installations needed.
